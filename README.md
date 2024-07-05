@@ -34,6 +34,7 @@ pip install PyPDF2
 python protector.py
 ```
 * Follow the prompts to enter a password and specify a new name for the encrypted PDF file.
+__Note:__ You can use `regression_analysis.pdf` for encryption.
 ### Example:
 ```bash
 Enter your password: my_secure_password
